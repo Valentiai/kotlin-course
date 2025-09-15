@@ -1,3 +1,5 @@
+package lessons.lesson03.homework
+
 //Название мероприятия
 val event_name: String
 //Дата проведения
