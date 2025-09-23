@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de28aa8-766c-49df-9660-6fdaa412c51a" name="Changes" comment="Homework correction">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson05/homework/ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson05/homework/Operators.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson07/homeworks/Homework7.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson03/homework/Homework.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson03/homework/Homework.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson04/homework/Datatypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson04/homework/Datatypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson05/homeworks/ElvisOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson05/homeworks/ElvisOperator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +57,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build kotlin-course.executor": "Run",
+    "Gradle.kotlin-course [:org.example.lessons.lesson07.homeworks.Homework7Kt.main()].executor": "Run",
+    "Gradle.kotlin-course [:org.example.lessons.lesson07.homeworks.HomeworkKt.main()].executor": "Run",
+    "Kotlin.HomeworkKt.executor": "Coverage",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
       <recent name="lessons.lesson04.homework" />
       <recent name="lessons.lesson03.homework" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Homework7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lessons.lesson07.homeworks.Homework7Kt" />
+      <module name="kotlin-course.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Homework7Kt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -81,7 +106,31 @@
       <option name="project" value="LOCAL" />
       <updated>1757933759046</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1758485734871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758485734871</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1758485896284</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758485896284</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1758488292206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758488292206</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

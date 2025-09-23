@@ -1,6 +1,6 @@
 package org.example.lessons.lesson05.homework
 
-fun main():{
+fun main() {
     // Задача 1
     val baseIntensity: Double = 3.0
     val coefficient: Double? = 0.73 // но может быть null
