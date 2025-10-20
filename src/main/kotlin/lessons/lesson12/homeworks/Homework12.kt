@@ -108,7 +108,7 @@ fun main() {
 //Напиши функцию, которая принимает список чисел и число и возвращает nullable число.
 //Цель: Найти первый возраст в списке, который соответствует условию (больше второго аргумента) и вернуть его, либо null если значения не нашлось.
     val ages = listOf(22, 18, 30, 45, 17, null, 60)
-    fun func6(ages:List<Int?>, age:Int): Int? {
+    fun func6(ages:List<Int?>, age:Int):Int? {
         return ages.filterNotNull().firstOrNull { it>age }
     }
     println(func6(ages,18))
