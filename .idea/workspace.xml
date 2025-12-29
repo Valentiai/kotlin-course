@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de28aa8-766c-49df-9660-6fdaa412c51a" name="Changes" comment="Homework correction">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/kotlin-course.test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson30/homeworks/InventoryManager.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/kotlin/lessons/lesson30/InventoryManagerTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson31/homeworks/PhoneNumberFormatter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/lessons/lesson31/PhoneNumberFormatterTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson09/homeworks/Homework.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson09/homeworks/Homework.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson15/homeworks/Materials.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson15/homeworks/Materials.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -405,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766408692967</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1767009826172</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1767009826172</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

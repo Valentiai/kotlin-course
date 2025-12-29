@@ -11,7 +11,9 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"));
-    implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.0")
+    implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.6.0");
+    testImplementation("org.junit.jupiter:junit-jupiter-params:5.7.0");
+
 }
 
 tasks.test {
