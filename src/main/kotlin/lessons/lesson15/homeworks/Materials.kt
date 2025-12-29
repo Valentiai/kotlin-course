@@ -1,5 +1,7 @@
 package org.example.lessons.lesson15.homeworks
 
+import kotlin.math.max
+
 abstract class Materials {
     private val materials = mutableListOf<String>()
     fun addMaterial(material: String) {

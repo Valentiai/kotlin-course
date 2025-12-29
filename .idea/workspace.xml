@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1de28aa8-766c-49df-9660-6fdaa412c51a" name="Changes" comment="Homework correction">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson07/homeworks/Homework7.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/kotlin-course.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson30/homeworks/InventoryManager.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/kotlin/lessons/lesson30/InventoryManagerTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson03/homework/Homework.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson03/homework/Homework.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson04/homework/Datatypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson04/homework/Datatypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson05/homeworks/ElvisOperator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson05/homeworks/ElvisOperator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson09/homeworks/Homework.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson09/homeworks/Homework.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson15/homeworks/Materials.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/lessons/lesson15/homeworks/Materials.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,10 +29,38 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-course" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="kotlin-course" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -49,36 +80,92 @@
   }
 }</component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\Valentino\.gradle\wrapper\dists\gradle-8.14-bin\38aieal9i53h9rfe7vjup95b9\gradle-8.14" javaHome="C:\Users\Valentino\.jdks\openjdk-24.0.2+12-54" gradleVersion="8.14" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="32jUatth1c6OocJ0TtTzoLkNhfy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build kotlin-course.executor": "Run",
-    "Gradle.kotlin-course [:org.example.lessons.lesson07.homeworks.Homework7Kt.main()].executor": "Run",
-    "Gradle.kotlin-course [:org.example.lessons.lesson07.homeworks.HomeworkKt.main()].executor": "Run",
-    "Kotlin.HomeworkKt.executor": "Coverage",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build kotlin-course.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson07.homeworks.Homework7Kt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson07.homeworks.HomeworkKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson08.homeworks.HomeworkKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson09.homeworks.HomeworkKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson10.homeworks.Homework10Kt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson10.homeworks.HomeworkKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson11.homeworks.Homework11Kt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson12.homeworks.Homework12Kt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson13.homeworks.Homework13Kt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson16.homeworks.AnimalsKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson16.homeworks.CartKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson16.homeworks.GeometryKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson16.homeworks.LoggerKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson16.homeworks.PrinterKt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson16.homeworks.Printer_1Kt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.kotlin-course [:org.example.lessons.lesson23.homeworks.Task1Kt.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Homework10Kt.executor&quot;: &quot;Coverage&quot;,
+    &quot;Kotlin.HomeworkKt.executor&quot;: &quot;Coverage&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Valentino/Desktop/Kotlin/kotlin-course/src/main/kotlin/lessons/lesson22/homeworks&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Valentino\Desktop\Kotlin\kotlin-course\src\main\kotlin\lessons\lesson22\homeworks" />
+    </key>
     <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="lessons.lesson30" />
+      <recent name="lesson30.test" />
       <recent name="lessons.lesson04.homework" />
       <recent name="lessons.lesson03.homework" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Homework7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lessons.lesson07.homeworks.Homework7Kt" />
+  <component name="RunManager" selected="Kotlin.Task1Kt">
+    <configuration name="AnimalsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lessons.lesson16.homeworks.AnimalsKt" />
+      <module name="kotlin-course.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GeometryKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lessons.lesson16.homeworks.GeometryKt" />
+      <module name="kotlin-course.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoggerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lessons.lesson16.homeworks.LoggerKt" />
+      <module name="kotlin-course.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrinterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lessons.lesson16.homeworks.PrinterKt" />
+      <module name="kotlin-course.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.lessons.lesson23.homeworks.Task1Kt" />
       <module name="kotlin-course.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,7 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Homework7Kt" />
+        <item itemvalue="Kotlin.Task1Kt" />
+        <item itemvalue="Kotlin.LoggerKt" />
+        <item itemvalue="Kotlin.GeometryKt" />
+        <item itemvalue="Kotlin.PrinterKt" />
+        <item itemvalue="Kotlin.AnimalsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,8 +221,203 @@
       <option name="project" value="LOCAL" />
       <updated>1758488292206</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1758669896081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758669896081</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1759701777530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759701777530</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1759707031062</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759707031062</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1760125447909</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1760125447909</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1760137856151</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1760137856151</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1760955489610</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1760955489610</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1760955556485</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1760955556485</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1760963993016</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1760963993016</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1761573526780</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1761573526780</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1761579936821</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761579936821</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1762181132005</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1762181132005</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1762690203860</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762690203860</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1762691216882</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1762691216882</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1762970365099</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1762970365099</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1763390805857</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1763390805857</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1763973455426</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1763973455426</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1764595506516</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1764595506516</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1764595702617</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1764595702617</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1765226296634</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765226296634</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1765822488166</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765822488166</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1765822662778</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765822662778</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1766408407384</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1766408407384</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Homework correction">
+      <option name="closed" value="true" />
+      <created>1766408692967</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1766408692967</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework correction" />
